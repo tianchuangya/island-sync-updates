@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2",
-  "url": "https://github.com/tianchuangya/island-sync-updates/releases/download/v1.2/island-sync-1.2.apk",
-  "sha256": "f36b4a51bf94279debd0b2711699763d49b2ec7a6057eb92988d95f8d00f9034",
-  "notes": "UI 全面美化（暗色玻璃卡片风格）；全新应用图标（像素风灵动岛）；发布改为 GitHub Release 发行版"
+  "versionCode": 4,
+  "versionName": "1.3",
+  "url": "https://github.com/tianchuangya/island-sync-updates/releases/download/v1.3/island-sync-1.3.apk",
+  "sha256": "0b9ce05266195b998cb1b8f6c08d9eb6fd9d6b4c50dc512a1de05b0436df7213",
+  "notes": "更新源内置默认+一键重置；权限设置分组置顶并强调自启动必开；管理同步应用支持搜索/全选/排序/图标；诊断可刷新；界面精简"
 }
