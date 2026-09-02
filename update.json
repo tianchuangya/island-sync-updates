@@ -1,7 +1,7 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1",
-  "url": "https://raw.githubusercontent.com/tianchuangya/island-sync-updates/main/island-sync-1.1.apk",
-  "sha256": "5d0a5f1a2c7245151b843fa2ebe3632308ae2fc5bca47dfaf1744ae23395fb1a",
-  "notes": "新增：关于作者（天创呀）；APK 远程更新功能；通知监听诊断"
+  "versionCode": 3,
+  "versionName": "1.2",
+  "url": "https://github.com/tianchuangya/island-sync-updates/releases/download/v1.2/island-sync-1.2.apk",
+  "sha256": "f36b4a51bf94279debd0b2711699763d49b2ec7a6057eb92988d95f8d00f9034",
+  "notes": "UI 全面美化（暗色玻璃卡片风格）；全新应用图标（像素风灵动岛）；发布改为 GitHub Release 发行版"
 }
